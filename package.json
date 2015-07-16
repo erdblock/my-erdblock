@@ -7,7 +7,7 @@
     "erdblock-website": "*",
     "express": "*"
   },
-  "license": " GPL-3.0",
+  "license": "GPL-3.0",
   "repository": {
     "type": "git",
     "url": "https://gitlab.ereblo.de/erdblock/my-erdblock.git"

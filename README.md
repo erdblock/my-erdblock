@@ -1,5 +1,9 @@
 # My erdblock
 Example of how to use erdblock.
+
+![Demo Image](assets/demo.png)
+
+
 ## Install
 ```
 git clone https://gitlab.ereblo.de/erdblock/my-erdblock.git

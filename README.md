@@ -1,5 +1,5 @@
 # My erdblock
-Example of how to use erdblock.
+Example of how to use [erdblock](https://github.com/erdblock/erdblock).
 
 ![Demo Image](assets/demo.png)
 
